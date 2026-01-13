@@ -28,7 +28,5 @@ The app will automatically open at: `http://localhost:8501`
 - Personalized recommendations
 - BMI, Pulse Pressure, and MAP calculations
 
-## 👨‍💻 Developer
-**Name:** Yashvi Rabadiya  
-**Course:** Machine Learning & Deep Learning  
-**Dataset:** Cardiovascular Disease Dataset (Kaggle)
+## 👨‍💻 Website
+'https://pulseinsight.streamlit.app/'
